@@ -22,3 +22,5 @@ Imports:
     topicmodels
 Config/roxygen2/version: 8.1.1
 RoxygenNote: 7.3.3
+URL: https://github.com/esamayoa-imp/estebanmagictoolkit
+BugReports: https://github.com/esamayoa-imp/estebanmagictoolkit/issues
