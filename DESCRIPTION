@@ -1,0 +1,24 @@
+Package: estebanmagictoolkit
+Type: Package
+Title: Topic and Sentiment Analysis
+Version: 0.1.0
+Author: ESC
+Maintainer: ESC <me@estebansamayoa.com>
+Description: Analyzes the main topics and sentiment of an article or PDF
+    document, and provides plotting functions to visualize the results for
+    simple text analysis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    ggplot2,
+    officer,
+    pdftools,
+    sentimentr,
+    tibble,
+    tidyr,
+    tidytext,
+    topicmodels
+Config/roxygen2/version: 8.1.1
+RoxygenNote: 7.3.3
