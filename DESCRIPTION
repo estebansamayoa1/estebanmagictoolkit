@@ -1,7 +1,7 @@
 Package: estebanmagictoolkit
 Type: Package
 Title: Topic and Sentiment Analysis
-Version: 0.1.0
+Version: 0.1.1
 Author: ESC
 Maintainer: ESC <me@estebansamayoa.com>
 Description: Analyzes the main topics and sentiment of an article or PDF
